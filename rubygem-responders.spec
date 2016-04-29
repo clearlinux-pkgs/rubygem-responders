@@ -4,7 +4,7 @@
 #
 Name     : rubygem-responders
 Version  : 2.1.1
-Release  : 6
+Release  : 7
 URL      : https://rubygems.org/downloads/responders-2.1.1.gem
 Source0  : https://rubygems.org/downloads/responders-2.1.1.gem
 Summary  : No detailed summary available
